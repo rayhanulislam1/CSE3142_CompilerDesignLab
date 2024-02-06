@@ -22,6 +22,4 @@ int main(){
     cout << "Letters = " << letters << endl;
     cout << "Digits = " << digits << endl;
     cout << "Characters = " << characters << endl;
-
-    return 0;
 }

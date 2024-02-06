@@ -70,6 +70,4 @@ int main()
     if(solve(str)) cout<<"Accepted\n";
     else cout<<"Rejected\n";
 
-
-    return 0;
 }

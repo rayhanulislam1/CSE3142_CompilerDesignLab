@@ -18,4 +18,5 @@ int main(){
     }
     cout << "Vowels: " << vowels << endl;
     cout << "Consonants: " << consonants << endl;
+    
 }

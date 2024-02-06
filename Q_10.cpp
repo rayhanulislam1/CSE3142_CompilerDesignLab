@@ -47,4 +47,5 @@ int main(){
     else{
         cout << "Rejected" << endl;
     }
+    
 }

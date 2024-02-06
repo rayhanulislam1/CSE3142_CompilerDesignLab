@@ -39,5 +39,4 @@ int main()
         else isValid = false;
         if(!isValid) cout << word << " : "<< "Invalid Input or Undefined\n";
     }
-    return 0;
 }

@@ -82,4 +82,5 @@ int main()
             isValid = false;
         if (!isValid) cout << word + " : "<< "Invalid Input or Undefined\n";
     }
+    
 }

@@ -86,5 +86,4 @@ int main()
             cout << str << " : "<< "Invalid Lexeme\n";
         }
     }
-    return 0;
 }

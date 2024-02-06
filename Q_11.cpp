@@ -121,4 +121,5 @@ Node* parse(string str) {
         }
     }
     return stack.top();
+    
 }

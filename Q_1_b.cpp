@@ -32,5 +32,4 @@ int main(){
     cout << "Letters1 = " << letters1 << endl;
     cout << "Digits1 = " << digits1 << endl;
     cout << "Characters1 = " << characters1 << endl;
-
 }

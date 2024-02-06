@@ -117,5 +117,4 @@ int main()
         }
         if(!isValid) cout << str << " : "<< "Invalid Lexeme\n";
     }
-    return 0;
 }
