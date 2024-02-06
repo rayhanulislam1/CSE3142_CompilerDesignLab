@@ -36,7 +36,7 @@ string increment_decrement_operators[] = {"++", "--"};
 
 int main()
 {
-    freopen("08.input.txt", "r", stdin);
+    //freopen("08.input.txt", "r", stdin);
     string str;
     while (getline(cin, str))
     {
